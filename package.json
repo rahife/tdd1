@@ -1,0 +1,26 @@
+{
+  "name": "tdd1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahife/tdd1"
+  },
+  "author": "Developer <dev@apiumtech.com> (http://google.es/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahife/tdd1/issues"
+  },
+  "homepage": "https://github.com/rahife/tdd1",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-karma": "^0.11.0",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.36",
+    "karma-jasmine": "^0.3.5"
+  }
+}
