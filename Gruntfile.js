@@ -17,6 +17,6 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-karma');
 
     // Default task(s).
-    grunt.registerTask('default', ['grunt-karma'']);
+    grunt.registerTask('default', ['grunt-karma']);
 
 };
